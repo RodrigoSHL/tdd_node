@@ -1,5 +1,5 @@
-function tested ():number {
-    return 15
+function tested:: ():number {
+    return 15::
 }
 
-tested()
+tested():::
